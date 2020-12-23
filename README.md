@@ -11,3 +11,6 @@ added from local to remote key setting
 added bach symbol testing...........
 
 
+testing with sublime text editor
+
+
