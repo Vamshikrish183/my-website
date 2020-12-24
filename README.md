@@ -20,7 +20,7 @@ testing diff
 
 hello
 
-local working now .
+local working modified
 
 
 
