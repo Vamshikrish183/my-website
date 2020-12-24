@@ -32,4 +32,4 @@ new feature
 
 feature 2
 
-
+FEATURE 3
